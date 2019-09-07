@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* CSS Document                  */
+/* Written by Chris Converse     */
+/* for lynda.com                 */
+
+.clear_both { clear: both; line-height: 1px; }
+
+body { background-color: #; margin: 40px; }
+a.videoLink img.play { position: absolute; top: 25px; left: 45px; opacity: .5; }
+a.videoLink div.caption {
+	position: absolute; width: 155px; top: 116px; padding: 20px 20px 15px 15px; color: #fff; background-color: rgba(0,0,0,.65);
+	font-family: Arial; font-size: 12px;
+}
+a.videoLink:hover { border-color: #fff; }
